@@ -1,2 +1,3 @@
 # delta-demo1
-This is a Demo for Git &amp; GitHub class..
+This is a Demo for Git &amp; GitHub class.
+Author(Hrutuja Salunke)
